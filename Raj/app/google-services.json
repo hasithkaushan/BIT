@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "892445847496",
+    "firebase_url": "https://raj-login-8a427.firebaseio.com",
+    "project_id": "raj-login-8a427",
+    "storage_bucket": "raj-login-8a427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892445847496:android:8a60cad0ca80936b361afd",
+        "android_client_info": {
+          "package_name": "com.example.raj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892445847496-1a8ibb8sf3bi6u8k0h09nfi0aibbfh7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLfSXitplR0JIuCKddHkBXgHw4P6KCHIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892445847496-1a8ibb8sf3bi6u8k0h09nfi0aibbfh7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
